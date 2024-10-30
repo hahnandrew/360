@@ -40,6 +40,12 @@
          "&kp ESC",     "&kp A",     "&kp A",    "&kp D",     "&kp F",  "&kp G",               "&none", "&kp LEFT_COMMAND",            "&none",                         "&none",     "&none", "&kp C_VOLUME_DOWN",  "&kp H",    "&kp J",     "&kp K",    "&kp L", "&kp SEMI",     "&kp SQT",
        "&kp LSHFT",     "&kp Z",     "&kp X",    "&kp C",     "&kp V",  "&kp B",                                            "&kp LEFT_COMMAND",                     "&kp PG_UP",                                    "&kp N",    "&kp M", "&kp COMMA",  "&kp DOT", "&kp FSLH",   "&kp RSHFT",
            "&mo 2", "&kp GRAVE", "&kp MINUS", "&kp LEFT", "&kp RIGHT",                     "&kp SPACE",            "&kp J",         "&kp LALT",                     "&kp PG_DN", "&kp ENTER",         "&kp SPACE",           "&kp DOWN",    "&kp UP", "&kp LBKT", "&kp RBKT", "&bootloader"
+    ], [
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
