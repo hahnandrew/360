@@ -1,0 +1,2 @@
+keymaps json is where edit files
+https://kinesis-ergo.com/wp-content/uploads/Advantage360-Professional-Firmware-Update-Instructions-11.22.23-KB360-PRO-GBR.pdf?srsltid=AfmBOormEq5qirC5TNQSt8Vkc6abX_c_Voq6Ozcjmi7R6EQoNe4yxSNM
