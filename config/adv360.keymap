@@ -88,5 +88,15 @@
             >;
         };
 
+        layer_Layer__5 {
+            bindings = <
+ &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans    &trans    &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans    &trans    &trans  &trans  &trans  &kp UP  &trans
+ &trans  &trans  &trans  &trans  &kp RIGHT  &trans            &trans  &trans  &trans                  &trans  &trans  &trans    &trans    &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans     &trans  &trans                            &trans                  &trans                  &kp LEFT  &kp DOWN  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans  &trans     &trans                    &trans  &trans  &trans                  &trans  &trans  &trans              &trans  &trans  &trans  &trans  &trans
+            >;
+        };
+
     };
 };

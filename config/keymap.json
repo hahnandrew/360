@@ -7,7 +7,8 @@
     "keypad",
     "fn",
     "mod",
-    "Layer #4"
+    "Layer #4",
+    "Layer #5"
   ],
   "layers": [
     [
@@ -40,6 +41,12 @@
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&kp LEFT",          "&kp DOWN",          "&kp UP", "&kp RIGHT", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                       "&trans",     "&kp PAGE_DOWN",     "&kp PAGE_UP",    "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                        "&trans",          "&trans",    "&trans", "&trans", "&trans"
+    ], [
+       "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans",                                                             "&trans",   "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans",                                                             "&trans",   "&trans",   "&trans", "&trans", "&trans", "&kp UP", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&kp RIGHT", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",   "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",                               "&trans",                     "&trans",                     "&kp LEFT", "&kp DOWN", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans",    "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",               "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
