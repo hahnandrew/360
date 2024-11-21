@@ -42,11 +42,11 @@
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                       "&trans",     "&kp PAGE_DOWN",     "&kp PAGE_UP",    "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                        "&trans",          "&trans",    "&trans", "&trans", "&trans"
     ], [
-       "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans",                                                             "&trans",   "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans",                                                             "&trans",   "&trans",   "&trans", "&trans", "&trans", "&kp UP", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&kp RIGHT", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",   "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",                               "&trans",                     "&trans",                     "&kp LEFT", "&kp DOWN", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans",    "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",               "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans",                                                             "&trans",        "&trans",   "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",           "&trans",                                                             "&trans",        "&trans",   "&trans", "&trans", "&trans", "&kp UP", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&kp RIGHT", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&kp BACKSPACE",   "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans",    "&trans", "&trans",                               "&trans",                     "&trans",                          "&kp LEFT", "&kp DOWN", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans",    "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                    "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
