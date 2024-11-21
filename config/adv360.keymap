@@ -20,25 +20,6 @@
 
 / {
 
-    combos {
-        compatible = "zmk,combos";
-        combo_esc {
-            timeout-ms = <200>;
-            key-positions = <65 40>;
-            bindings = <&kp BACKSPACE>;
-};
-combo_enter {
-            timeout-ms = <200>;
-            key-positions = <65 55>;
-            bindings = <&kp ENTER>;
-};
-combo_tab {
-            timeout-ms = <200>;
-            key-positions = <65 24>;
-            bindings = <&kp TAB>;
-};
-    };
-
   behaviors {
     #include "macros.dtsi"
     #include "version.dtsi"
