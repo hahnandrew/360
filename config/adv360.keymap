@@ -78,7 +78,7 @@
             >;
         };
 
-        layer_Layer__4 {
+        layer_Utils {
             bindings = <
  &trans  &trans  &trans    &trans     &trans  &trans                   &trans                                                  &trans    &trans             &trans           &trans     &trans  &trans  &trans
  &trans  &trans  &trans    &trans     &trans  &trans                   &trans                                                  &trans    &trans  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP     &trans  &trans  &trans
