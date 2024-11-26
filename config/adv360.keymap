@@ -80,21 +80,11 @@
 
         layer_Layer__4 {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans    &trans             &trans           &trans     &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans    &trans  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP     &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &kp LEFT           &kp DOWN           &kp UP  &kp RIGHT  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                    &trans      &kp PAGE_DOWN      &kp PAGE_UP     &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                       &trans           &trans     &trans  &trans  &trans
-            >;
-        };
-
-        layer_Layer__5 {
-            bindings = <
- &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans         &trans    &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans     &trans  &trans            &trans                                                  &trans         &trans    &trans  &trans  &trans  &kp UP  &trans
- &trans  &trans  &trans  &trans  &kp RIGHT  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &kp BACKSPACE    &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans     &trans  &trans                            &trans                  &trans                       &kp LEFT  &kp DOWN  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans     &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                   &trans  &trans  &trans  &trans  &trans
+ &trans  &trans  &trans    &trans     &trans  &trans                   &trans                                                  &trans    &trans             &trans           &trans     &trans  &trans  &trans
+ &trans  &trans  &trans    &trans     &trans  &trans                   &trans                                                  &trans    &trans  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP     &trans  &trans  &trans
+ &trans  &trans  &trans    &trans     &trans  &trans                   &trans  &trans  &trans                  &trans  &trans  &trans  &kp LEFT           &kp DOWN           &kp UP  &kp RIGHT  &trans  &trans
+ &trans  &trans  &trans    &trans     &trans  &trans                                   &trans                  &trans                    &trans      &kp PAGE_DOWN      &kp PAGE_UP     &trans  &trans  &trans
+ &trans  &trans  &trans  &kp LEFT  &kp RIGHT                    &kp PAGE_DOWN  &trans  &trans                  &trans  &trans  &trans                       &trans           &trans     &trans  &trans  &trans
             >;
         };
 
